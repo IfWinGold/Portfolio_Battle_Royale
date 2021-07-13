@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bag" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAECJAEMEAEAEEAACgIAAABAgAIAACAABAAAA=</HashCode>
+      <FileName>Assets\Script\Bag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bomb" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAIAAAAAAAAAAAAEAAAIEACAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BombDameged" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BombDameged.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAAAAAACAAAFAAAAARAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Script\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cam" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCQAAACAICAAAAAAADAAAAAAECAAAoCBAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Script\Cam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CamRotate" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAABAAAAAAAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Script\CamRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQEAABAACAAAAAAIAAAAAAAAEAEAQBBCACAAAAAEAA=</HashCode>
+      <FileName>Assets\Script\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQIEIBAAqAIAQIgQAAUCAAAAIAEAUAhQYBMEAAAAAA=</HashCode>
+      <FileName>Assets\Script\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBullet" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAIAAEAAACAAAFAAQAARAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyGizmo" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\EnemyGizmo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyGizmo2" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\EnemyGizmo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyHPBar" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\EnemyHPBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipGun" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAQAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\EquipGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAACAAAAAAAAgAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InUseManager" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\InUseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Script\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemManager" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARCAAAAACAAAEAAAAAAEQAgIAAAAAABQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\Item\ItemManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magneticfield" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQFAAACCCAFIgAAIAAAAAAgAAADAAABCAAGAEAAAAA=</HashCode>
+      <FileName>Assets\Script\Magneticfield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Playeranim" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQAAgAAAqRAAoEAQAAAAAAjAAAAAQAEgccAAACIBAY=</HashCode>
+      <FileName>Assets\Script\Playeranim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMove" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAYIDAgAQiQAAQEQAAAAIABCjAUwAQEggWDAIABQIiA=</HashCode>
+      <FileName>Assets\Script\PlayerMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerRotate" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAhAAAACAABQAAABAAAAAAAAAAAIAAAQAAAAAAAAI=</HashCode>
+      <FileName>Assets\Script\PlayerRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSound" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\PlayerSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerUI" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAFAAAACgEAAAAAAAAAABgAAAAQAABAAAAAABIAAA=</HashCode>
+      <FileName>Assets\Script\playerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerWeapon" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACAAAAAAAAgAAAAgAAAAAQAARAAAAAAIIEA=</HashCode>
+      <FileName>Assets\Script\PlayerWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlyaerHit" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\PlyaerHit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Syringer" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACAABAAAAAAAAgAgAAAEAAAAAAAEQEAEAAA=</HashCode>
+      <FileName>Assets\Script\Syringer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tracjectory" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQADAhAACAAIAgAIAAAAAAoAAAIAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Tracjectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
